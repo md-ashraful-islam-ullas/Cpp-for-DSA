@@ -1,0 +1,1 @@
+# This is a C++ course. It doesn't cover c++ in details. It just for preparing about DSA. We will Learn more about c++ in details in DSA course. 
